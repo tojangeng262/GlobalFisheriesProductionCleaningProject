@@ -46,32 +46,6 @@ This repository documents the cleaning and preparation of a historical fisheries
 
 ---
 
-## 📁 Repository Structure
-
-
-📦 fisheries-cleaning-project/
-├── data/
-│ ├── raw/ # Original dataset
-│ ├── processed/
-│ │ ├── df_long_cleaned.csv # Cleaned dataset (no USSR)
-│ │ └── df_ussr.csv # USSR data only
-├── notebooks/
-│ └── data_cleaning.ipynb # All cleaning steps in Python
-├── README.md # This file
-
-
-
----
-
-## 📊 Next Steps
-
-- [ ] Conduct Exploratory Data Analysis (EDA)
-- [ ] Visualize production trends by continent and species
-- [ ] Model forecasting trends or sustainability patterns
-- [ ] Share findings in an interactive dashboard (optional)
-
----
-
 ## 🤝 Credits
 
 Created by tojangeng262, a fisheries graduate transitioning into data analytics.
